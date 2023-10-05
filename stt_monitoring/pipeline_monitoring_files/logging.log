@@ -1,0 +1,9 @@
+root - ERROR - ошибка на этапе base_append to sql 'Base_append' object has no attribute 'sql_table_name' - 2023-02-08 12:40:48,717
+root - ERROR - возникла ошибка на этапе error_check проверки наличия свежих ошибок Expecting value: line 1 column 16 (char 15) - 2023-02-08 12:51:32,029
+root - ERROR - возникла ошибка на этапе error_check проверки наличия свежих ошибок Expecting value: line 1 column 16 (char 15) - 2023-02-08 12:55:08,334
+root - ERROR - возникла ошибка на этапе error_check проверки наличия свежих ошибок local variable 'last_error' referenced before assignment - 2023-02-08 13:00:01,744
+root - ERROR - возникла ошибка на этапе error_check проверки наличия свежих ошибок [Errno 2] No such file or directory: '/app2/logging_errors.log' - 2023-02-08 17:38:10,456
+root - ERROR - возникла ошибка на этапе error_check проверки наличия свежих ошибок list index out of range - 2023-02-16 22:18:13,587
+root - ERROR - возникла ошибка на этапе error_check проверки наличия свежих ошибок list index out of range - 2023-02-16 22:20:19,768
+root - ERROR - возникла ошибка на этапе error_check проверки наличия свежих ошибок local variable 'curr_err' referenced before assignment - 2023-02-16 22:22:46,993
+root - ERROR - возникла ошибка на этапе error_check проверки наличия свежих ошибок name 'curr_err' is not defined - 2023-02-16 22:25:03,152
