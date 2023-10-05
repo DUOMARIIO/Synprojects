@@ -1,0 +1,4 @@
+select top 1 *
+ from
+ [dbo].[Lubyanskiy_Grimer_SF_V1]
+ order by id desc

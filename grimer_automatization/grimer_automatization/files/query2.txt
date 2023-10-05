@@ -1,0 +1,2 @@
+select *
+from [dbo].[Lubyanskiy_Grimer_SF_V1]
